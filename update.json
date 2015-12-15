@@ -1,1 +1,8 @@
-
+{
+  "packageManager": "github",
+  "name": "timer.js",
+  "repo": "husa/timer.js",
+  "files": {
+    "include": ["dist/timer.min.js"]
+  }
+}
