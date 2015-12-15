@@ -1,7 +1,7 @@
 {
   "packageManager": "github",
   "name": "timer.js",
-  "repo": "husa/timer.js",
+  "repo": "Bassel-m/timer.js",
   "files": {
     "include": ["dist/timer.min.js"]
   }
